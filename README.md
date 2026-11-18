@@ -8,7 +8,7 @@ This repository contains my first Business Intelligence project built in Microso
 ---
 
 ## Dashboard Preview
-![Car Fleet Dashboard](assets/dashboard_preview.png)
+![Car Fleet Dashboard](assets/final_canvas_page_screenshot_no_selection.png)
 
 ---
 
